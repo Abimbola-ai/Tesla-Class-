@@ -14,7 +14,7 @@ setup(
     author='Abimbola Ojikutu',
     author_email='abimbola.ojikutu@ubh.de',
     # Needed to actually package something
-    packages=['Tesla_class'],
+    packages=['fabric'],
     # Needed for dependencies
     #install_requires=['pytest'],
     # *strongly* suggested for sharing
